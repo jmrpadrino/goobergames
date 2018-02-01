@@ -1,0 +1,647 @@
+# <!=Copyright (C) 2014 Rilwis
+# This file is distributed under the GPL2+.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: goober\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/meta-box\n"
+"POT-Creation-Date: 2017-02-01 11:10-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: WebCreek <jrodriguez@webcreek.com>\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_x;_e;_ex;_n;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: demo\n"
+"X-Poedit-SearchPathExcluded-2: tests\n"
+"X-Poedit-SearchPathExcluded-3: css\n"
+"X-Poedit-SearchPathExcluded-4: lang\n"
+
+#: functions.php:69
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:70
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:71
+msgid "Bottom Navigaton"
+msgstr ""
+
+#: functions.php:80
+msgid "Home"
+msgstr ""
+
+#: functions.php:81
+msgid "About Us"
+msgstr ""
+
+#: functions.php:82 inc/goober_cpt.php:10
+msgid "Products"
+msgstr ""
+
+#: functions.php:83
+msgid "Support"
+msgstr ""
+
+#: functions.php:84
+msgid "Contact"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer Subscription"
+msgstr ""
+
+#: functions.php:125
+msgid "Shows on the footer area of the website."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549 inc/goober_taxonomies.php:12
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/goober_breadcrumbs.php:233
+msgid "Page"
+msgstr ""
+
+#: inc/goober_cpt.php:11 inc/goober_cpt.php:13
+msgid "Sentry Product"
+msgstr ""
+
+#: inc/goober_cpt.php:12
+msgid "Sentry Products"
+msgstr ""
+
+#: inc/goober_cpt.php:14 inc/goober_cpt.php:71 inc/goober_cpt.php:128
+msgid "Item Archives"
+msgstr ""
+
+#: inc/goober_cpt.php:15 inc/goober_cpt.php:72 inc/goober_cpt.php:129
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/goober_cpt.php:16 inc/goober_cpt.php:73 inc/goober_cpt.php:130
+#: inc/goober_taxonomies.php:16 inc/goober_taxonomies.php:57
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/goober_cpt.php:17 inc/goober_cpt.php:74 inc/goober_cpt.php:131
+#: inc/goober_taxonomies.php:14 inc/goober_taxonomies.php:55
+msgid "All Items"
+msgstr ""
+
+#: inc/goober_cpt.php:18 inc/goober_cpt.php:75 inc/goober_cpt.php:132
+#: inc/goober_taxonomies.php:18 inc/goober_taxonomies.php:59
+msgid "Add New Item"
+msgstr ""
+
+#: inc/goober_cpt.php:19 inc/goober_cpt.php:76 inc/goober_cpt.php:133
+msgid "Add New"
+msgstr ""
+
+#: inc/goober_cpt.php:20 inc/goober_cpt.php:77 inc/goober_cpt.php:134
+msgid "New Item"
+msgstr ""
+
+#: inc/goober_cpt.php:21 inc/goober_cpt.php:78 inc/goober_cpt.php:135
+#: inc/goober_taxonomies.php:19 inc/goober_taxonomies.php:60
+msgid "Edit Item"
+msgstr ""
+
+#: inc/goober_cpt.php:22 inc/goober_cpt.php:79 inc/goober_cpt.php:136
+#: inc/goober_taxonomies.php:20 inc/goober_taxonomies.php:61
+msgid "Update Item"
+msgstr ""
+
+#: inc/goober_cpt.php:23 inc/goober_cpt.php:80 inc/goober_cpt.php:137
+#: inc/goober_taxonomies.php:21 inc/goober_taxonomies.php:62
+msgid "View Item"
+msgstr ""
+
+#: inc/goober_cpt.php:24 inc/goober_cpt.php:81 inc/goober_cpt.php:138
+msgid "View Items"
+msgstr ""
+
+#: inc/goober_cpt.php:25 inc/goober_cpt.php:82 inc/goober_cpt.php:139
+msgid "Search Item"
+msgstr ""
+
+#: inc/goober_cpt.php:26 inc/goober_cpt.php:83 inc/goober_cpt.php:140
+msgid "Not found"
+msgstr ""
+
+#: inc/goober_cpt.php:27 inc/goober_cpt.php:84 inc/goober_cpt.php:141
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/goober_cpt.php:28 inc/goober_cpt.php:85 inc/goober_cpt.php:142
+msgid "Featured Image"
+msgstr ""
+
+#: inc/goober_cpt.php:29 inc/goober_cpt.php:86 inc/goober_cpt.php:143
+msgid "Set featured image"
+msgstr ""
+
+#: inc/goober_cpt.php:30 inc/goober_cpt.php:87 inc/goober_cpt.php:144
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/goober_cpt.php:31 inc/goober_cpt.php:88 inc/goober_cpt.php:145
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/goober_cpt.php:32 inc/goober_cpt.php:89 inc/goober_cpt.php:146
+msgid "Insert into item"
+msgstr ""
+
+#: inc/goober_cpt.php:33 inc/goober_cpt.php:90 inc/goober_cpt.php:147
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/goober_cpt.php:34 inc/goober_cpt.php:91 inc/goober_cpt.php:148
+#: inc/goober_taxonomies.php:29 inc/goober_taxonomies.php:70
+msgid "Items list"
+msgstr ""
+
+#: inc/goober_cpt.php:35 inc/goober_cpt.php:92 inc/goober_cpt.php:149
+#: inc/goober_taxonomies.php:30 inc/goober_taxonomies.php:71
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/goober_cpt.php:36 inc/goober_cpt.php:93 inc/goober_cpt.php:150
+msgid "Filter items list"
+msgstr ""
+
+#: inc/goober_cpt.php:39
+msgid "Product"
+msgstr ""
+
+#: inc/goober_cpt.php:40
+msgid "Sentry Wellhead System Product"
+msgstr ""
+
+#: inc/goober_cpt.php:67
+msgid "Services"
+msgstr ""
+
+#: inc/goober_cpt.php:68 inc/goober_cpt.php:70
+msgid "Sentry Service"
+msgstr ""
+
+#: inc/goober_cpt.php:69
+msgid "Sentry Services"
+msgstr ""
+
+#: inc/goober_cpt.php:96
+msgid "Service"
+msgstr ""
+
+#: inc/goober_cpt.php:97
+msgid "Sentry Wellhead System Servicio"
+msgstr ""
+
+#: inc/goober_cpt.php:124 inc/goober_cpt.php:126
+msgid "Sentry Locations"
+msgstr ""
+
+#: inc/goober_cpt.php:125 inc/goober_cpt.php:127
+msgid "Sentry Location"
+msgstr ""
+
+#: inc/goober_cpt.php:153 inc/goober_taxonomies.php:53
+msgid "Location"
+msgstr ""
+
+#: inc/goober_cpt.php:154
+msgid "Sentry Wellhead System Locations"
+msgstr ""
+
+#: inc/goober_taxonomies.php:11
+msgid "Types"
+msgstr ""
+
+#: inc/goober_taxonomies.php:13
+msgid "Product Types"
+msgstr ""
+
+#: inc/goober_taxonomies.php:15 inc/goober_taxonomies.php:56
+msgid "Parent Item"
+msgstr ""
+
+#: inc/goober_taxonomies.php:17 inc/goober_taxonomies.php:58
+msgid "New Item Name"
+msgstr ""
+
+#: inc/goober_taxonomies.php:22 inc/goober_taxonomies.php:63
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/goober_taxonomies.php:23 inc/goober_taxonomies.php:64
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/goober_taxonomies.php:24 inc/goober_taxonomies.php:65
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/goober_taxonomies.php:25 inc/goober_taxonomies.php:66
+msgid "Popular Items"
+msgstr ""
+
+#: inc/goober_taxonomies.php:26 inc/goober_taxonomies.php:67
+msgid "Search Items"
+msgstr ""
+
+#: inc/goober_taxonomies.php:27 inc/goober_taxonomies.php:68
+msgid "Not Found"
+msgstr ""
+
+#: inc/goober_taxonomies.php:28 inc/goober_taxonomies.php:69
+msgid "No items"
+msgstr ""
+
+#: inc/goober_taxonomies.php:52 inc/goober_taxonomies.php:54
+msgid "Locations"
+msgstr ""
+
+#: index.php:47
+msgid "Comming soon"
+msgstr ""
+
+#: index.php:48
+msgid "WebCreek C3PO Team is working right now!"
+msgstr ""
